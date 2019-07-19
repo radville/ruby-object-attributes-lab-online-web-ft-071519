@@ -26,7 +26,7 @@ class Person
   end
   
   def job=(job)
-    @name = name
+    @job = job
   end
   
   def job
